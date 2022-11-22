@@ -1,8 +1,17 @@
 # Etude_Concept_Python
 
 Exercice réalisé dans le cadre du cours de Programmation Orientée Objet avancée en maîtrise d'informatique à l'UQAC
-
+Question 4 du TP2
 Réalisé par Alix Dufour et Théo Bouguet pendant la session d'automne 2022
+
+##Instructions 
+
+Afin de tester le polymorphisme, la surcharge et redéfinition de méthodes, run le fichier main.py
+
+Afin de tester la généricité et la modularité, run le fichier main2.py
+
+Afin de tester l'analyse de données, run le fichier AnalyseDeDonnesTest.py
+
 
 ## Sujet 
 
