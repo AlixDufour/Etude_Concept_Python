@@ -8,4 +8,7 @@ if __name__ == '__main__':
 
     # Affichage d'un diagramme en bâton montrant l'occurence d'apparition des labels
     patients["Label"].value_counts().plot.bar();
+    plt.legend()
+    plt.xlabel("Label")
+    plt.ylabel("Occurence")
     plt.show()
