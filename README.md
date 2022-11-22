@@ -32,3 +32,12 @@ Livrables :
 Python en analyse de données à travers des exemples.
 - Le fichier README qui contient vos noms inclus dans le fichier.zip.
 - Votre travail en un fichier .zip
+
+## Lancement des exmples
+
+Pour lancer les exemples montrant les concepts de polymorphismes/ surcharges et redéfinition, généricité et modularité, il faut se rendre dans le dossier dist et lancer les fichier main.exe et main2.exe à l'aide de l'invite de commande Windows.
+Il est aussi possible d'ouvrir le projet et le lancer les scripts python à la main.
+
+Pour l'analyse de données, les .exe ne fonctionnent pas, il faut donc lancer les scripts. Il faut s'assurer au préalable d'avoir les modules suivants d'installés : 
+  - Pandas
+  - Matplotlib
