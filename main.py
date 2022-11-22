@@ -14,7 +14,7 @@ if __name__ == '__main__':
     garen.attaquer()
     ashe.attaquer()
 
-    lux.pointsVie -= 10
+    lux.pointsVie += 10
 
     if(lux > garen):
         print(lux.nom + " a plus de vie que " + garen.nom)
@@ -22,5 +22,4 @@ if __name__ == '__main__':
         print(lux.nom + " a moins de vie que " + garen.nom)
     elif(lux == garen):
         print(lux.nom + " a autant de vie que " + garen.nom)
-
 

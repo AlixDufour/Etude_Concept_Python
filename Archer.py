@@ -6,6 +6,8 @@ class Archer(Personnage):
         self.pointsVie = 100
         self.nombreFleches = 10
 
+
+    # Redéfinition de méthode
     def attaquer(self):
         print(self.nom + " tire une flèche !")
 

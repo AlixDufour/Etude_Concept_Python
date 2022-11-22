@@ -6,6 +6,7 @@ class Guerrier(Personnage):
         self.pointsVie = 100
         self.endurance = 100
 
+    # Redéfinition de méthode
     def attaquer(self):
         print(self.nom + " donne un coup d'épée !")
 

@@ -6,6 +6,8 @@ class Mage(Personnage):
         self.pointsVie = 100
         self.pointsMagie = 100
 
+
+    # Redéfinition de méthode
     def attaquer(self):
         print(self.nom + " lance un sort !")
 
