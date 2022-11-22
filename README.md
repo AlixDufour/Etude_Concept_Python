@@ -38,6 +38,6 @@ Python en analyse de données à travers des exemples.
 Pour lancer les exemples montrant les concepts de polymorphismes/ surcharges et redéfinition, généricité et modularité, il faut se rendre dans le dossier dist et lancer les fichier main.exe et main2.exe à l'aide de l'invite de commande Windows.
 Il est aussi possible d'ouvrir le projet et le lancer les scripts python à la main.
 
-Pour l'analyse de données, les .exe ne fonctionnent pas, il faut donc lancer les scripts. Il faut s'assurer au préalable d'avoir les modules suivants d'installés : 
+Pour l'analyse de données, les .exe ne fonctionnent pas, il faut donc lancer les scripts AnalyseDonnesTest.py et AnalyseDonneesDiag.py à la main. Il faut s'assurer au préalable d'avoir les modules suivants d'installés : 
   - Pandas
   - Matplotlib
